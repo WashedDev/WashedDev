@@ -26,7 +26,7 @@
 
 -   👨‍💻 By day, I'm wrangling servers, taming rogue semi-colons, and building things for the web.
 -   🎮 By night, I'm climbing the ranks in **Brawlhalla**, probably spamming side-sigs more than I should admit.
--   🌱 I'm on a perpetual quest for knowledge, currently diving deeper into `[mention a technology you're learning, e.g., Docker, Kubernetes, or a JS framework]`.
+-   🌱 I'm on a perpetual quest for knowledge, currently diving deeper into Ethical Hacking.
 -   ⚡ Fun fact: My code only compiles correctly after I've watched at least one episode of a Shonen anime for a power-up.
 
 ---
