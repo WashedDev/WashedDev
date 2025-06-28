@@ -58,7 +58,7 @@
 
 ---
 
-### 🎮 When I'm AFK (Away From Keyboard)
+### 🎮 When I'm AFK
 
 When I'm not pushing code, you can find me trying to land a zero-to-death combo or just enjoying a good match.
 <br><br>
