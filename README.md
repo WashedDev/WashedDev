@@ -11,7 +11,7 @@
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+WashedDev;A+full-stack+dev+%26+Linux+enthusiast;Part-time+Brawlhalla+Legend;Welcome+to+my+Digital+Dojo!" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+WashedDev;A+full-stack+dev+%26+Linux+enthusiast;Brawlhalla+Player;Welcome+to+my+Digital+Dojo!" alt="Typing SVG">
     </a>
   </h1>
 </div>
