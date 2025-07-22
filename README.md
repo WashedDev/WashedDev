@@ -21,7 +21,7 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRrMTJoc3lsczdwOTF0b3E4ZTV2cHB5dTlkaTI2N3JxYmhqZ2J4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y2dTV20g2tJa8/giphy.gif" width="30px"> About Me
 
 <p align="left">
-  Hey! I'm just a dude who wanna make cool stuff.
+  Hey! I'm just a dude who wants to make cool stuff.
 </p>
 
 -   👨‍💻 Usually spend most of time building web apps.
