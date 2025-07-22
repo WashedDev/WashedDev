@@ -21,13 +21,13 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRrMTJoc3lsczdwOTF0b3E4ZTV2cHB5dTlkaTI2N3JxYmhqZ2J4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y2dTV20g2tJa8/giphy.gif" width="30px"> About Me
 
 <p align="left">
-  Hey! I'm just a dude who finds joy in the elegant chaos of coding and the sweet satisfaction of a well-written script. My terminal is my sanctuary, and my keyboard is my weapon of choice.
+  Hey! I'm just a dude who wanna make cool stuff.
 </p>
 
--   👨‍💻 By day, I'm wrangling servers, taming rogue semi-colons, and building things for the web.
--   🎮 By night, I'm climbing the ranks in **Brawlhalla**, probably spamming side-sigs more than I should admit.
--   🌱 I'm on a perpetual quest for knowledge, currently diving deeper into Ethical Hacking.
--   ⚡ Fun fact: My code only compiles correctly after I've watched at least one episode of a Shonen anime for a power-up.
+-   👨‍💻 Usually spend most of time building web apps.
+-   🎮 Did i mention i'm also diamond in brawlhalla( stressful fighting game).
+-   🌱 Currently learning the ancient ways of Hacking( For ethical reasons of course).
+-   ⚡ Fun fact: I am a huge Bleach and Hellsing Fan.
 
 ---
 
