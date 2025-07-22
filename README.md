@@ -24,7 +24,7 @@
   Hey! I'm just a dude who wants to make cool stuff.
 </p>
 
--   👨‍💻 Usually spend most of time building web apps.
+-   👨‍💻 Usually spend most of my time building web apps.
 -   🎮 Did i mention i'm also diamond in brawlhalla( stressful fighting game).
 -   🌱 Currently learning the ancient ways of Hacking( For ethical reasons of course).
 -   ⚡ Fun fact: I am a huge Bleach and Hellsing Fan.
