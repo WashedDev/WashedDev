@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://media1.tenor.com/m/-AGHMBlq6ccAAAAd/typing-laughing.gif"/>
-</div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WashedDev&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</div>
+
+
 
 <div align="center">
   <h1>
