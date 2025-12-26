@@ -54,13 +54,13 @@ About Me
 
 ### 🎮 When I'm AFK
 
-When I'm not pushing code, you can find me trying to land a zero-to-death combo or just enjoying a good match.
+When I'm not coding you can find me playing some brawlhalla
 <br><br>
 <div align="center">
   <img src="https://media1.tenor.com/m/XdFeo215JuYAAAAC/brawlhalla.gif"/>
 </div>
 <br>
-...or getting hyped by an epic anime fight scene. It's all about that power scaling, right?
+...or enjoying some anime
 <br><br>
 <div align="center">
   <img src="https://media1.tenor.com/m/Y_4_saaGYwUAAAAd/jujutsu-kaisen-mahito.gif"/>
