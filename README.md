@@ -16,7 +16,7 @@ About Me
 
 -   👨‍💻 Usually spend most of my time building web apps.
 -   🎮 Did i mention i'm also diamond in brawlhalla( stressful fighting game).
--   🌱 Currently learning the ancient ways of Hacking( For ethical reasons of course).
+-   🌱 Currently learning the ancient Fullstack development and want to make insanely good web apps.
 -   ⚡ Fun fact: I am a huge Bleach and Hellsing Fan.
 
 ---
